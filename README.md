@@ -23,7 +23,7 @@ Smart contract security and penetration testing — hands-on via [TryHackMe](htt
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/anthonymcelwee) · Open to remote work in blockchain development, AI training, and data annotation
+[LinkedIn](https://www.linkedin.com/in/anthonymcelwee) · Open to remote work in blockchain development, smart contract security
 
 ## Tools
 
