@@ -10,7 +10,7 @@ Self-taught blockchain developer focused on secure, well-tested smart contracts.
 - Python and Java on the side
 
 ## Projects
-
+   - [oracle-manipulation-audit](https://github.com/blockthesechains/oracle-manipulation-audit) — Security audit of a DeFi lending vault: a flash-loan oracle-manipulation exploit, a hardened fix, and a full findings report (Critical/High/Medium/Low), proven by Foundry tests
 - **[solidity-security](https://github.com/blockthesechains/solidity-security)** — Reentrancy and access-control vulnerabilities, each with a hardened fix and a test proving it
 - **[multisig-wallet](https://github.com/blockthesechains/multisig-wallet)** — Multi-signature wallet built from scratch: thresholds, confirmations, revocation (21 tests)
 - **[token-vesting](https://github.com/blockthesechains/token-vesting)** — Vesting contract with cliff + linear release, time-warped and fuzz tested
